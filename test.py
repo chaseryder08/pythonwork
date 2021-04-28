@@ -1,7 +1,4 @@
-class Questions:
-    def __init__(self, prompt, answer):
-        self.prompt = prompt
-        self.answer = answer
+from ques import Questions
 
 prompt_questions = [
     """----------------------------------------------------------------------------------------------------
